@@ -1,4 +1,5 @@
-#include <iostream> //prefix sum Array
+//prefix sum Array
+#include <iostream>
 using namespace std;
 
 void preFix(int arr[], int sum[], int n){
